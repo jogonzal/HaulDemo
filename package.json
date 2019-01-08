@@ -5,8 +5,15 @@
   "repository": "https://github.com/jogonzal/HaulDemo.git",
   "author": "Jorge <jogonzal@users.noreply.github.com>",
   "license": "MIT",
+  "scripts": {
+    "start-stuff": "react-native run-ios"
+  },
   "devDependencies": {
     "babel-loader": "^8.0.5",
+    "haul": "^1.0.0-rc.10",
     "ts-loader": "^5.3.3"
+  },
+  "dependencies": {
+    "react-native": "^0.57.8"
   }
 }
