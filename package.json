@@ -1,0 +1,12 @@
+{
+  "name": "HaulDemo",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/jogonzal/HaulDemo.git",
+  "author": "Jorge <jogonzal@users.noreply.github.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "babel-loader": "^8.0.5",
+    "ts-loader": "^5.3.3"
+  }
+}
